@@ -1,0 +1,35 @@
+.sidebar {
+    width: 240px;
+    border-right: 1px solid #ddd;
+    padding: 20px 10px;
+    background: white;
+    height: 100vh;
+    position: sticky;
+    top: 0;
+    }
+    
+    .category-list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    font-family: "Open Sans", sans-serif;
+    position: relative;
+    top: 100px;
+    }
+    
+    .category-list li {
+    padding: 10px 0;
+    border-bottom: 1px solid #f1f1f1;
+    }
+    
+    .category-list li a {
+    text-decoration: none;
+    color: #444;
+    font-size: 15px;
+    }
+    
+    .category-list li a:hover {
+    color: #000;
+    font-weight: 600;
+    }
+    

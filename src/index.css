@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* qolgan custom styling bo‘lsa pastda turaveradi */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
