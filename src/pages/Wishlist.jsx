@@ -64,7 +64,6 @@ export default function Wishlist({ wishlist, setWishlist }) {
             <img src={item.image} className="wishlist-img" alt={item.name} />
 
             <h3>{item.name}</h3>
-            <p className="price">${item.price}</p>
 
             <button
               className="remove-btn"
