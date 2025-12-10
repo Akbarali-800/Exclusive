@@ -453,17 +453,17 @@ const topProducts = [
 
 // Another products group
 const topProductss = [
-  { id: 16, name: "Product 16", price: 59.99, rating: 5, image: product16 },
-  { id: 17, name: "Product 17", price: 69.99, rating: 3, image: product17 },
-  { id: 18, name: "Product 18", price: 79.99, rating: 4, image: product18 },
-  { id: 19, name: "Product 19", price: 89.99, rating: 5, image: product19 },
+  { id: 16, name: "12V Kids Ride o16", price: 59.99, rating: 5, image: product16 },
+  { id: 17, name: "Air Retro H17", price: 69.99, rating: 3, image: product17 },
+  { id: 18, name: "Portal Remote Player 5", price: 79.99, rating: 4, image: product18 },
+  { id: 19, name: "Lettermans Varsity Jacket ", price: 89.99, rating: 5, image: product19 },
 ];
 
 // Explore products (12–15)
 const exploreMore = [
-  { id: 12, name: "Product 12", price: 19.99, rating: 4, image: product12 },
-  { id: 13, name: "Product 13", price: 29.99, rating: 3, image: product13 },
-  { id: 14, name: "Product 14", price: 39.99, rating: 5, image: product14 },
+  { id: 12, name: "Skyblue", price: 19.99, rating: 4, image: product12 },
+  { id: 13, name: "Canon EOS 800D", price: 29.99, rating: 3, image: product13 },
+  { id: 14, name: "HP (i5-1334U) (8/256GB)", price: 39.99, rating: 5, image: product14 },
   { id: 15, name: "Product 15", price: 49.99, rating: 4, image: product15 },
 ];
 
